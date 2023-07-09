@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anushree N</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 👨‍💻 About Me [https://aarthianushree.github.io/portfolio.github.io/](https://aarthianushree.github.io/portfolio.github.io/)
+- 👨‍💻 About Me [https://aarthianushree.github.io/portfolio.github.io/](https://aarthianushree.github.io/anu_portfolio/)
 
 - 📫 Reach me **srisaianushree2326@gmail.com**
 
